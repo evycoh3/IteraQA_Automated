@@ -1,0 +1,126 @@
+2022-12-19 15:27:11,974 [main] INFO com.pages.HomePage - Clicked on Sign Up
+2022-12-19 15:27:12,166 [main] INFO com.pages.SignupPage - Send keys to Firstname inputBox :user
+2022-12-19 15:27:12,226 [main] INFO com.pages.SignupPage - Send keys to Lastname inputBox :yes
+2022-12-19 15:27:12,288 [main] INFO com.pages.SignupPage - Send keys to Email inputBox :a1b1@xui.com
+2022-12-19 15:27:12,346 [main] INFO com.pages.SignupPage - Send keys to Mobile inputBox :123456789
+2022-12-19 15:27:12,406 [main] INFO com.pages.SignupPage - Send keys to Username inputBox :user.abd
+2022-12-19 15:27:12,462 [main] INFO com.pages.SignupPage - Send keys to Password inputBox :a1b1c1
+2022-12-19 15:27:12,516 [main] INFO com.pages.SignupPage - Send keys to ConfirmPassword inputBox :a1b1c1
+2022-12-19 15:27:14,253 [main] INFO com.pages.SignupPage - Clicked on SubmitBtn
+2022-12-19 15:27:45,990 [main] INFO com.pages.HomePage - Clicked on Sign Up
+2022-12-19 15:27:46,191 [main] INFO com.pages.SignupPage - Send keys to Firstname inputBox :user
+2022-12-19 15:27:46,246 [main] INFO com.pages.SignupPage - Send keys to Lastname inputBox :yes
+2022-12-19 15:27:46,311 [main] INFO com.pages.SignupPage - Send keys to Email inputBox :a1b1@xui.com
+2022-12-19 15:27:46,373 [main] INFO com.pages.SignupPage - Send keys to Mobile inputBox :123456789
+2022-12-19 15:27:46,437 [main] INFO com.pages.SignupPage - Send keys to Username inputBox :user.abd
+2022-12-19 15:27:46,495 [main] INFO com.pages.SignupPage - Send keys to Password inputBox :a1b1c1
+2022-12-19 15:27:46,552 [main] INFO com.pages.SignupPage - Send keys to ConfirmPassword inputBox :a1b1c1
+2022-12-19 15:27:46,983 [main] INFO com.pages.SignupPage - Clicked on SubmitBtn
+2022-12-19 15:28:05,791 [main] ERROR com.pages.SignupPage - Failed to return text from Signup Message
+2022-12-19 15:28:13,328 [main] INFO com.pages.HomePage - Clicked on Sign Up
+2022-12-19 15:28:13,536 [main] INFO com.pages.SignupPage - Send keys to Firstname inputBox :user
+2022-12-19 15:28:13,598 [main] INFO com.pages.SignupPage - Send keys to Lastname inputBox :yes
+2022-12-19 15:28:13,659 [main] INFO com.pages.SignupPage - Send keys to Email inputBox :a1b1@xui.com
+2022-12-19 15:28:13,718 [main] INFO com.pages.SignupPage - Send keys to Mobile inputBox :123456789
+2022-12-19 15:28:13,779 [main] INFO com.pages.SignupPage - Send keys to Username inputBox :user.abd.1
+2022-12-19 15:28:13,835 [main] INFO com.pages.SignupPage - Send keys to Password inputBox :a1b1c1
+2022-12-19 15:28:13,892 [main] INFO com.pages.SignupPage - Send keys to ConfirmPassword inputBox :a1b1c1
+2022-12-19 15:28:14,632 [main] INFO com.pages.SignupPage - Clicked on SubmitBtn
+2022-12-19 15:28:34,857 [main] ERROR com.pages.SignupPage - Failed to return text from Signup Message
+2022-12-19 15:29:38,039 [main] INFO com.pages.HomePage - Clicked on Sign Up
+2022-12-19 15:29:38,238 [main] INFO com.pages.SignupPage - Send keys to Firstname inputBox :user
+2022-12-19 15:29:38,304 [main] INFO com.pages.SignupPage - Send keys to Lastname inputBox :yes
+2022-12-19 15:29:38,374 [main] INFO com.pages.SignupPage - Send keys to Email inputBox :a1b1@xui.com
+2022-12-19 15:29:38,435 [main] INFO com.pages.SignupPage - Send keys to Mobile inputBox :123456789
+2022-12-19 15:29:38,504 [main] INFO com.pages.SignupPage - Send keys to Username inputBox :user.abd.11
+2022-12-19 15:29:38,561 [main] INFO com.pages.SignupPage - Send keys to Password inputBox :a1b1c1
+2022-12-19 15:29:38,616 [main] INFO com.pages.SignupPage - Send keys to ConfirmPassword inputBox :a1b1c1
+2022-12-19 15:29:39,358 [main] INFO com.pages.SignupPage - Clicked on SubmitBtn
+2022-12-19 15:29:39,392 [main] ERROR com.pages.SignupPage - Signup Message text value:  Registration Successful
+2022-12-19 17:09:02,956 [main] INFO com.pages.HomePage - Clicked on Login Link
+2022-12-19 17:09:03,156 [main] INFO com.pages.LoginPage - Send keys to Username inputBox :user.abd.11
+2022-12-19 17:09:03,213 [main] INFO com.pages.LoginPage - Send keys to Password inputBox :a1b1c1
+2022-12-19 17:09:06,358 [main] INFO com.pages.LoginPage - Clicked on LoginBtn
+2022-12-19 17:09:06,405 [main] INFO com.pages.DashBoardPage - Welcome message text value:  Welcome user.abd.11
+2022-12-19 22:38:06,482 [main] ERROR com.pages.LoginPage - Send Keys to UsernameinputBox failed
+2022-12-19 22:38:06,505 [main] ERROR com.pages.LoginPage - Send Keys to PasswordinputBox failed
+2022-12-19 22:38:33,491 [main] INFO com.pages.HomePage - Clicked on Login Link
+2022-12-19 22:38:33,713 [main] INFO com.pages.LoginPage - Send keys to Username inputBox :user.abd.11
+2022-12-19 22:38:33,769 [main] INFO com.pages.LoginPage - Send keys to Password inputBox :a1b1c1
+2022-12-19 22:38:36,912 [main] INFO com.pages.LoginPage - Clicked on LoginBtn
+2022-12-19 22:38:37,473 [main] INFO com.pages.DashBoardPage - Clicked on create new customer btn
+2022-12-19 22:38:37,528 [main] INFO com.pages.CreateNewCustomerPage - Send keys to name inputBox :Automation
+2022-12-19 22:38:37,585 [main] INFO com.pages.CreateNewCustomerPage - Send keys to company inputBox :evySystem
+2022-12-19 22:38:37,639 [main] INFO com.pages.CreateNewCustomerPage - Send keys to address inputBox :thre 1c
+2022-12-19 22:38:37,696 [main] INFO com.pages.CreateNewCustomerPage - Send keys to city inputBox :Tel aviv
+2022-12-19 22:38:37,757 [main] INFO com.pages.CreateNewCustomerPage - Send keys to phone inputBox :aa9701234567
+2022-12-19 22:38:37,825 [main] INFO com.pages.CreateNewCustomerPage - Send keys to email inputBox :evySystem@xyz.com
+2022-12-19 22:38:39,680 [main] INFO com.pages.CreateNewCustomerPage - Clicked on create 
+2022-12-19 22:38:39,686 [main] INFO com.pages.DashBoardPage - Page Title: - Testautomation practice page
+2022-12-19 22:43:35,181 [main] INFO com.pages.HomePage - Clicked on Sign Up Link
+2022-12-19 22:43:35,378 [main] INFO com.pages.SignupPage - Send keys to Firstname inputBox :user
+2022-12-19 22:43:35,439 [main] INFO com.pages.SignupPage - Send keys to Lastname inputBox :yes
+2022-12-19 22:43:35,504 [main] INFO com.pages.SignupPage - Send keys to Email inputBox :a1b1c@xui.com
+2022-12-19 22:43:35,569 [main] INFO com.pages.SignupPage - Send keys to Mobile inputBox :123456789
+2022-12-19 22:43:35,630 [main] INFO com.pages.SignupPage - Send keys to Username inputBox :user.c.x1
+2022-12-19 22:43:35,688 [main] INFO com.pages.SignupPage - Send keys to Password inputBox :a1b1c1
+2022-12-19 22:43:35,746 [main] INFO com.pages.SignupPage - Send keys to ConfirmPassword inputBox :a1b1c1
+2022-12-19 22:43:37,506 [main] INFO com.pages.SignupPage - Clicked on SubmitBtn
+2022-12-19 22:43:37,543 [main] INFO com.pages.SignupPage - Signup Message text value:  Registration Successful
+2022-12-19 22:43:41,458 [main] INFO com.pages.HomePage - Clicked on Login Link
+2022-12-19 22:43:41,527 [main] INFO com.pages.LoginPage - Send keys to Username inputBox :user.c.x1
+2022-12-19 22:43:41,585 [main] INFO com.pages.LoginPage - Send keys to Password inputBox :a1b1c1
+2022-12-19 22:43:43,448 [main] INFO com.pages.LoginPage - Clicked on LoginBtn
+2022-12-19 22:43:43,491 [main] INFO com.pages.DashBoardPage - Welcome message text value:  Welcome user.c.x1
+2022-12-19 22:43:47,687 [main] INFO com.pages.HomePage - Clicked on Login Link
+2022-12-19 22:43:47,748 [main] INFO com.pages.LoginPage - Send keys to Username inputBox :user.c.x1
+2022-12-19 22:43:47,800 [main] INFO com.pages.LoginPage - Send keys to Password inputBox :a1b1c1
+2022-12-19 22:43:49,486 [main] INFO com.pages.LoginPage - Clicked on LoginBtn
+2022-12-19 22:43:49,961 [main] INFO com.pages.DashBoardPage - Clicked on create new customer btn
+2022-12-19 22:43:50,017 [main] INFO com.pages.CreateNewCustomerPage - Send keys to name inputBox :Automation
+2022-12-19 22:43:50,076 [main] INFO com.pages.CreateNewCustomerPage - Send keys to company inputBox :evySystem
+2022-12-19 22:43:50,136 [main] INFO com.pages.CreateNewCustomerPage - Send keys to address inputBox :thre 1c
+2022-12-19 22:43:50,195 [main] INFO com.pages.CreateNewCustomerPage - Send keys to city inputBox :Tel aviv
+2022-12-19 22:43:50,255 [main] INFO com.pages.CreateNewCustomerPage - Send keys to phone inputBox :aa9701234567
+2022-12-19 22:43:50,322 [main] INFO com.pages.CreateNewCustomerPage - Send keys to email inputBox :evySystem@xyz.com
+2022-12-19 22:43:52,128 [main] INFO com.pages.CreateNewCustomerPage - Clicked on create 
+2022-12-19 22:43:52,134 [main] INFO com.pages.DashBoardPage - Page Title: - Testautomation practice page
+2022-12-19 22:46:38,639 [main] INFO com.pages.HomePage - Clicked on Login Link
+2022-12-19 22:46:38,855 [main] INFO com.pages.LoginPage - Send keys to Username inputBox :user.c.x1
+2022-12-19 22:46:38,908 [main] INFO com.pages.LoginPage - Send keys to Password inputBox :a1b1c1
+2022-12-19 22:46:40,617 [main] INFO com.pages.LoginPage - Clicked on LoginBtn
+2022-12-19 22:46:41,109 [main] INFO com.pages.DashBoardPage - Clicked on create new customer btn
+2022-12-19 22:46:41,165 [main] INFO com.pages.CreateNewCustomerPage - Send keys to name inputBox :Automation
+2022-12-19 22:46:41,227 [main] INFO com.pages.CreateNewCustomerPage - Send keys to company inputBox :evySystem
+2022-12-19 22:46:41,282 [main] INFO com.pages.CreateNewCustomerPage - Send keys to address inputBox :thre 1c
+2022-12-19 22:46:41,337 [main] INFO com.pages.CreateNewCustomerPage - Send keys to city inputBox :Tel aviv
+2022-12-19 22:46:41,397 [main] INFO com.pages.CreateNewCustomerPage - Send keys to phone inputBox :aa9701234567
+2022-12-19 22:46:41,464 [main] INFO com.pages.CreateNewCustomerPage - Send keys to email inputBox :evySystem@xyz.com
+2022-12-19 22:46:43,301 [main] INFO com.pages.CreateNewCustomerPage - Clicked on create 
+2022-12-19 22:46:43,307 [main] INFO com.pages.DashBoardPage - Page Title: - Testautomation practice page
+2022-12-19 22:57:21,869 [main] INFO com.pages.HomePage - Clicked on Login Link
+2022-12-19 22:57:22,097 [main] INFO com.pages.LoginPage - Send keys to Username inputBox :user.c.x1
+2022-12-19 22:57:22,153 [main] INFO com.pages.LoginPage - Send keys to Password inputBox :a1b1c1
+2022-12-19 22:57:25,286 [main] INFO com.pages.LoginPage - Clicked on LoginBtn
+2022-12-19 22:57:25,820 [main] INFO com.pages.DashBoardPage - Clicked on create new customer btn
+2022-12-19 22:57:25,836 [main] ERROR com.pages.CreateNewCustomerPage - Send Keys to nameinputBox failed
+2022-12-19 22:57:25,847 [main] ERROR com.pages.CreateNewCustomerPage - Send Keys to companyinputBox failed
+2022-12-19 22:57:25,851 [main] ERROR com.pages.CreateNewCustomerPage - Send Keys to addressinputBox failed
+2022-12-19 22:57:25,861 [main] ERROR com.pages.CreateNewCustomerPage - Send Keys to cityinputBox failed
+2022-12-19 22:57:25,877 [main] ERROR com.pages.CreateNewCustomerPage - Send Keys to phoneinputBox failed
+2022-12-19 22:57:25,887 [main] ERROR com.pages.CreateNewCustomerPage - Send Keys to emailinputBox failed
+2022-12-19 22:57:27,679 [main] INFO com.pages.CreateNewCustomerPage - Clicked on create 
+2022-12-19 22:57:27,684 [main] INFO com.pages.DashBoardPage - Page Title: - Testautomation practice page
+2022-12-19 23:09:52,141 [main] INFO com.pages.HomePage - Clicked on Login Link
+2022-12-19 23:09:52,360 [main] INFO com.pages.LoginPage - Send keys to Username inputBox :user.c.x1
+2022-12-19 23:09:52,418 [main] INFO com.pages.LoginPage - Send keys to Password inputBox :a1b1c1
+2022-12-19 23:09:54,134 [main] INFO com.pages.LoginPage - Clicked on LoginBtn
+2022-12-19 23:09:54,619 [main] INFO com.pages.DashBoardPage - Clicked on create new customer btn
+2022-12-19 23:09:54,676 [main] INFO com.pages.CreateNewCustomerPage - Send keys to name inputBox :Automation
+2022-12-19 23:09:54,736 [main] INFO com.pages.CreateNewCustomerPage - Send keys to company inputBox :evySystem
+2022-12-19 23:09:54,790 [main] INFO com.pages.CreateNewCustomerPage - Send keys to address inputBox :thre 1c
+2022-12-19 23:09:54,849 [main] INFO com.pages.CreateNewCustomerPage - Send keys to city inputBox :Tel aviv
+2022-12-19 23:09:54,907 [main] INFO com.pages.CreateNewCustomerPage - Send keys to phone inputBox :123456789d
+2022-12-19 23:09:54,970 [main] INFO com.pages.CreateNewCustomerPage - Send keys to email inputBox :evySystem@xyz.com
+2022-12-19 23:09:56,736 [main] INFO com.pages.CreateNewCustomerPage - Clicked on create 
+2022-12-19 23:09:56,741 [main] INFO com.pages.DashBoardPage - Page Title: - Testautomation practice page
